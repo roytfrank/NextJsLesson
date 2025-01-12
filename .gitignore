@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/NextJs02/node_modules
+/NextJs02/backend/node_modules
+/NextJs02/data.db
 /.pnp
 .pnp.js
 .yarn/install-state.gz
